@@ -1,0 +1,5 @@
+interface Movie {
+
+    String title();
+
+}
